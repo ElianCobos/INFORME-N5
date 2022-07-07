@@ -58,16 +58,26 @@
 ![imagen](https://user-images.githubusercontent.com/105674953/177699103-56e3d2f5-d8a8-4066-afb8-7e66890156a1.png)
 
 ### 18. Determine las corrientes de rama en la figura 9-28.
+![imagen](https://user-images.githubusercontent.com/105674953/177812721-4ce87eb7-89e9-46ef-828d-5d6b868a8c43.png)
 
 ### 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+![imagen](https://user-images.githubusercontent.com/105674953/177812787-d09d287f-153b-4f34-86e0-0bdc2b372712.png)
 
 ### 22. Determine la corriente a través de cada resistor en la figura 9-29.
+![imagen](https://user-images.githubusercontent.com/105674953/177813191-a7a0333c-4f4c-46b0-bc59-3522c4c2e076.png)
+![imagen](https://user-images.githubusercontent.com/105674953/177813210-6cdb4948-5f4e-4eb7-8e7b-8e0f1ce8d565.png)
+![imagen](https://user-images.githubusercontent.com/105674953/177813246-57e6ea8e-ab96-4972-98d0-f6940914ce7a.png)
+![imagen](https://user-images.githubusercontent.com/105674953/177813276-0d84edd1-11e1-452a-9e02-88e942269598.png)
 
 ### 24. Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+![imagen](https://user-images.githubusercontent.com/105674953/177813306-2e5ce576-5e1d-45a7-9a6a-68154583a32f.png)
+![imagen](https://user-images.githubusercontent.com/105674953/177813336-260a5c4b-7019-4eb7-92eb-da616a63dd8b.png)
 
 ### 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
+![imagen](https://user-images.githubusercontent.com/105674953/177812825-b5939f5e-3c7c-46a4-919a-e95a08dfb79b.png)
 
 ### 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
+![imagen](https://user-images.githubusercontent.com/105674953/177813145-02401fef-77d7-4959-b9c2-5a3724d2a100.png)
 
 ### 30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
