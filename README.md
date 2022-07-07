@@ -77,18 +77,22 @@
 
 ## CAP 10
 ### 2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
+![imagen](https://user-images.githubusercontent.com/105674953/177706934-4b831607-5e73-4dee-96c1-dee1e94af7e8.png)
 
 ### 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.
+![imagen](https://user-images.githubusercontent.com/105674953/177707126-7c292bdf-c0e5-4563-a011-e4bd389d7643.png)
 
 ### 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte?
-
+####La aguja gira 180 grados
 ### 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150 * 10-7 Wb/At # m.
+![imagen](https://user-images.githubusercontent.com/105674953/177707564-0ed6bf49-5343-4da4-96c2-d64c7dc0fe9f.png)
 
 ### 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
-
+#### Al activarlo el embolo se contrae
 ### 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
-
+#### Hace que se prenda la lampara N2 y que se apague la lampara N2
 ### 14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
+![imagen](https://user-images.githubusercontent.com/105674953/177707965-91589b58-8dbc-4163-b690-9a0bc79f1ace.png)
 
 ### 16. En la figura 10-44, hay 500 vueltas. Determine
 ![imagen](https://user-images.githubusercontent.com/105674953/177705206-ff4937ee-da42-4a16-811c-7e8388743960.png)
