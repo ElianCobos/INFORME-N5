@@ -1,8 +1,8 @@
 # INFORME-N5
 ## 1. Objetivos
-#### 1.- Identificar con que tipo de circuito estoy trabajando y cuales son los metodos de resolucion de estos
-#### 2.- Aplicar la ley Ohm en todos los circuitos ya sea en serie o en paralelo
-#### 3.- Aplicar las leyes de kirchhoff en ejercicios de circuitos en serie y en paralelos
+### Utilizar el método de la corriente en ramas paradeterminar cantidades desconocidas en un circuito
+### Describir el principio de operación de varios tipos de dispositivos electromagnéticos
+### Analizar el principio de inducción electromagnética
 ## 2. Marco Teorico
 ### Ecuaciones simultaneas en el análisis de circuitos
 ![imagen](https://user-images.githubusercontent.com/105674953/177670880-76f5233a-6138-4109-85a6-c2b3fd13e26f.png)
@@ -179,8 +179,10 @@
 ###
 ###
 
-
 ## 4. Video
+https://youtu.be/4KUqreBimJg
 ## 5. Conclusiones
+### Mediante el estudio del metodos de los capitulos, se puede llegar a encontrar valores desconocidos que se encuentren en un circuito electrico de forma mas sencilla.
+### El tema de campos electromagneticos es muy extenso y un poco controvercial debido a que este puede ayudar o perjudicar a las personas dependiendo el uso que se le de y la ubicacion en donde haya mas radiacion electromagneticas.
 ## 6. Biliografia
 #### Floyd, T. L. (n.d.). FLOYD FLOYD OCTAVA EDICIÓN OCTAVA. Retrieved May 18, 2022, from www.pearsoneducacion.net/floyd
