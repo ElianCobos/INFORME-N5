@@ -53,7 +53,8 @@
 ![imagen](https://user-images.githubusercontent.com/105674953/177697985-3d1e3799-822f-47fc-9ebb-12b3bbf6fe0d.png)
 
 ### 16. Escriba el determinante característico para las ecuaciones:
-![imagen](https://user-images.githubusercontent.com/105674953/177699074-ef0459c3-1c49-43fc-b2b8-a8a10a930934.png)
+![imagen](https://user-images.githubusercontent.com/105674953/177699188-28e11895-c238-4c18-b275-41b47f8595d3.png)
+
 ![imagen](https://user-images.githubusercontent.com/105674953/177699103-56e3d2f5-d8a8-4066-afb8-7e66890156a1.png)
 
 ### 18. Determine las corrientes de rama en la figura 9-28.
