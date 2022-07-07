@@ -93,10 +93,11 @@
 ### 16. En la figura 10-44, hay 500 vueltas. Determine
 
 ### 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
-
+#### El volataje inducido se duplica cuando la tasa de cambio de lujo magnetico se duplica
 ### 20. Un campo magnético cambia a razón de 3500  103 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
 ### 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando?
+#### No hay cambio en el campo magnetico entonces no se produce un voltaje inducido
 
 ### 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
 
